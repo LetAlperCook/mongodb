@@ -1,0 +1,17 @@
+D:\MongoDB\mongodb\mongodb\mongodb\bin\Debug\net7.0-windows\mongodb.exe
+D:\MongoDB\mongodb\mongodb\mongodb\bin\Debug\net7.0-windows\mongodb.deps.json
+D:\MongoDB\mongodb\mongodb\mongodb\bin\Debug\net7.0-windows\mongodb.runtimeconfig.json
+D:\MongoDB\mongodb\mongodb\mongodb\bin\Debug\net7.0-windows\mongodb.dll
+D:\MongoDB\mongodb\mongodb\mongodb\bin\Debug\net7.0-windows\mongodb.pdb
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.csproj.AssemblyReference.cache
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.Form1.resources
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.csproj.GenerateResource.cache
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.GeneratedMSBuildEditorConfig.editorconfig
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.AssemblyInfoInputs.cache
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.AssemblyInfo.cs
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.csproj.CoreCompileInputs.cache
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.dll
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\refint\mongodb.dll
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.pdb
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\mongodb.genruntimeconfig.cache
+D:\MongoDB\mongodb\mongodb\mongodb\obj\Debug\net7.0-windows\ref\mongodb.dll
